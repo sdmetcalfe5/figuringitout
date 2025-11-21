@@ -1,4 +1,4 @@
 # Figuring It Out
 
-# Name
+## Name
 Seth Metcalfe
