@@ -6,4 +6,4 @@ Seth Metcalfe
 
 ## Favorite Color
 
-Light blue
+Light blue!
