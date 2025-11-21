@@ -1,4 +1,9 @@
 # Figuring It Out
 
 ## Name
-Seth Metcalfe!
+
+Seth Metcalfe
+
+## Favorite Color
+
+Light blue
