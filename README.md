@@ -1,4 +1,4 @@
 # Figuring It Out
 
 ## Name
-Seth Metcalfe
+Seth Metcalfe!
